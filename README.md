@@ -6,7 +6,7 @@ A Dll That Enables Edit On Release On Older Versions Of Fortnite.
 ## ⚙️ Setup & Usage
 
 ### 1️⃣ Download the DLL
-- Head over to the [Releases](https://github.com/Jaruwyd/Edit-On-Release/releases) section.
+- Click [Here](https://github.com/Jaruwyd/Edit-On-Release/tree/download).
 - Download the latest version of the DLL.
 
 ### 2️⃣ Choose an Injector
