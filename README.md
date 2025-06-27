@@ -11,7 +11,7 @@ A Dll That Enables Edit On Release On Older Versions Of Fortnite.
 
 ### 2️⃣ Choose an Injector
 - You can use any DLL injector of your choice.
-- Recommended injectors: **Uuclient**, or others you trust.
+- Recommended injectors: **Uuuclient**, or others you trust.
 
 ### 3️⃣ Inject & Toggle
 - Inject the downloaded DLL into your target process.
